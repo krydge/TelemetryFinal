@@ -1,0 +1,3 @@
+2021-04-30 09:56:00.556 -06:00 [INF] waiting for a request
+2021-04-30 09:56:06.050 -06:00 [INF] query is hello
+2021-04-30 09:56:16.276 -06:00 [INF] waiting for a request
