@@ -27,7 +27,7 @@ namespace PolarisAICore {
                     AutoRegisterTemplate = true,
                     AutoRegisterTemplateVersion = AutoRegisterTemplateVersion.ESv6
                 })
-                .WriteTo.RollingFileAlternate(".\\logs",
+                .WriteTo.RollingFileAlternate("../../../logs", fileSizeLimitBytes: 1024 * 1024,
                     outputTemplate: "{Timestamp:yyyy-MM-dd HH:mm:ss.fff zzz} [{Level}] {Message}{NewLine}{Exception}")
                 .CreateLogger();
 

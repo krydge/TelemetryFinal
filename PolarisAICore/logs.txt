@@ -193,3 +193,27 @@
 2021-05-02 16:55:30.911 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
 2021-05-02 16:55:30.911 -06:00 [INF] Time to get a responce from starlight is "00:00:11.4324960"
 2021-05-02 16:55:30.947 -06:00 [INF] waiting for a request
+2021-05-02 16:59:39.900 -06:00 [INF] waiting for a request
+2021-05-02 16:59:42.604 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 16:59:42.628 -06:00 [INF] query is hello
+2021-05-02 16:59:53.305 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:59:53.306 -06:00 [INF] Utterence responce is I'm Polaris, the Star. I work as a Personal Assistant just in my free hours!
+2021-05-02 16:59:53.306 -06:00 [INF] Time to get a responce from starlight is "00:00:10.6782319"
+2021-05-02 16:59:53.336 -06:00 [INF] waiting for a request
+2021-05-02 17:00:19.932 -06:00 [INF] waiting for a request
+2021-05-02 17:00:23.465 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 17:00:23.488 -06:00 [INF] query is hello
+2021-05-02 17:00:34.463 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 17:00:34.464 -06:00 [INF] Utterence responce is I'm Polaris, yours truly Personal Assistant!
+2021-05-02 17:00:34.465 -06:00 [INF] Time to get a responce from starlight is "00:00:10.9766042"
+2021-05-02 17:00:34.494 -06:00 [INF] waiting for a request
+2021-05-02 17:02:04.749 -06:00 [INF] waiting for a request
+2021-05-02 17:02:26.204 -06:00 [INF] waiting for a request
+2021-05-02 17:02:39.739 -06:00 [INF] waiting for a request
+2021-05-02 17:02:42.223 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 17:02:42.246 -06:00 [INF] query is hello
+2021-05-02 17:02:53.412 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 17:02:53.414 -06:00 [INF] Utterence responce is I'm Polaris, the North Star, and also a Personal Assistant!
+2021-05-02 17:02:53.414 -06:00 [INF] Time to get a responce from starlight is "00:00:11.1680258"
+2021-05-02 17:02:53.444 -06:00 [INF] waiting for a request
+2021-05-02 17:03:46.377 -06:00 [INF] waiting for a request
