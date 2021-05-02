@@ -1,8 +1,10 @@
-﻿using Newtonsoft.Json.Linq;
+﻿using Serilog;
+using Newtonsoft.Json.Linq;
 using PolarisAICore.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Microsoft.Extensions.Logging;
 
 namespace PolarisAICore {
 	public class Utterance {
@@ -22,6 +24,8 @@ namespace PolarisAICore {
         public JObject Entity { get; set; }
 
         private readonly JObject _nlpResponse;
+        private readonly ILogger<Utterance> logger;
+
         public Intent TopScoringIntent {
             get {
                 return GetTopScoringIntent();
@@ -55,7 +59,6 @@ namespace PolarisAICore {
         public Utterance(JObject NLPResponse) {
 
             _nlpResponse = NLPResponse;
-
             Query = _nlpResponse["query"].ToString();
 
             // Set intents

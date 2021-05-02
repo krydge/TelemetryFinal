@@ -1,3 +1,195 @@
 2021-04-30 09:56:00.556 -06:00 [INF] waiting for a request
 2021-04-30 09:56:06.050 -06:00 [INF] query is hello
 2021-04-30 09:56:16.276 -06:00 [INF] waiting for a request
+2021-05-02 14:02:12.332 -06:00 [INF] waiting for a request
+2021-05-02 14:12:34.627 -06:00 [INF] waiting for a request
+2021-05-02 14:12:43.111 -06:00 [INF] query is hello
+2021-05-02 14:12:55.160 -06:00 [INF] waiting for a request
+2021-05-02 14:16:37.250 -06:00 [INF] waiting for a request
+2021-05-02 14:16:42.582 -06:00 [INF] query is hello
+2021-05-02 14:16:56.049 -06:00 [INF] waiting for a request
+2021-05-02 14:18:49.987 -06:00 [INF] waiting for a request
+2021-05-02 14:19:00.804 -06:00 [INF] query is hello
+2021-05-02 14:19:13.875 -06:00 [INF] waiting for a request
+2021-05-02 14:20:44.142 -06:00 [INF] waiting for a request
+2021-05-02 14:20:47.263 -06:00 [INF] query is hello
+2021-05-02 14:20:59.548 -06:00 [INF] waiting for a request
+2021-05-02 14:21:44.681 -06:00 [INF] query is hello
+2021-05-02 14:21:44.706 -06:00 [INF] waiting for a request
+2021-05-02 14:26:28.352 -06:00 [INF] waiting for a request
+2021-05-02 15:16:32.947 -06:00 [INF] waiting for a request
+2021-05-02 16:01:04.847 -06:00 [INF] waiting for a request
+2021-05-02 16:01:18.620 -06:00 [INF] query is hello
+2021-05-02 16:01:29.577 -06:00 [INF] PolarisAICore.Utterance
+2021-05-02 16:01:29.579 -06:00 [INF] Utterence responce is I'm the brightest star in the constelation of Ursa Minor, Polaris!
+2021-05-02 16:01:29.615 -06:00 [INF] waiting for a request
+2021-05-02 16:06:08.845 -06:00 [INF] waiting for a request
+2021-05-02 16:06:11.934 -06:00 [INF] query is heloo
+2021-05-02 16:06:22.741 -06:00 [INF] the utternece is a wuestions? : False
+2021-05-02 16:06:22.744 -06:00 [INF] Utterence responce is Sure! Here's the weather forecast for today:
+2021-05-02 16:06:22.773 -06:00 [INF] waiting for a request
+2021-05-02 16:08:00.534 -06:00 [INF] waiting for a request
+2021-05-02 16:08:03.894 -06:00 [INF] query is hello
+2021-05-02 16:08:14.722 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:08:14.725 -06:00 [INF] Utterence responce is I'm Polaris, the North Star, and also a Personal Assistant!
+2021-05-02 16:08:14.726 -06:00 [INF] Time to get a responce from starlight is "00:00:10.8342389"
+2021-05-02 16:08:14.764 -06:00 [INF] waiting for a request
+2021-05-02 16:08:30.280 -06:00 [INF] query is farmers are awesome
+2021-05-02 16:08:30.302 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:08:30.307 -06:00 [INF] Utterence responce is Sure thing, the weather for today is:
+2021-05-02 16:08:30.308 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0285556"
+2021-05-02 16:08:30.311 -06:00 [INF] waiting for a request
+2021-05-02 16:08:37.110 -06:00 [INF] query is hello
+2021-05-02 16:08:37.139 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:08:37.141 -06:00 [INF] Utterence responce is I'm Polaris, yours truly Personal Assistant!
+2021-05-02 16:08:37.142 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0319560"
+2021-05-02 16:08:37.144 -06:00 [INF] waiting for a request
+2021-05-02 16:11:01.296 -06:00 [INF] waiting for a request
+2021-05-02 16:11:03.994 -06:00 [INF] query is hello
+2021-05-02 16:11:14.897 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:11:14.900 -06:00 [INF] Utterence responce is I'm Polaris, the Star. I work as a Personal Assistant just in my free hours!
+2021-05-02 16:11:14.902 -06:00 [INF] Time to get a responce from starlight is "00:00:10.9103971"
+2021-05-02 16:11:14.935 -06:00 [INF] waiting for a request
+2021-05-02 16:16:53.379 -06:00 [INF] waiting for a request
+2021-05-02 16:17:02.238 -06:00 [INF] query is hello
+2021-05-02 16:17:13.149 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:17:13.151 -06:00 [INF] Utterence responce is I'm Polaris, yours truly Personal Assistant!
+2021-05-02 16:17:13.152 -06:00 [INF] Time to get a responce from starlight is "00:00:10.9166646"
+2021-05-02 16:17:13.184 -06:00 [INF] waiting for a request
+2021-05-02 16:17:23.499 -06:00 [INF] query is are you my friend?
+2021-05-02 16:17:23.524 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:17:23.526 -06:00 [INF] Utterence responce is Sure thing, the weather for today is:
+2021-05-02 16:17:23.527 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0284021"
+2021-05-02 16:17:23.530 -06:00 [INF] waiting for a request
+2021-05-02 16:18:40.818 -06:00 [INF] waiting for a request
+2021-05-02 16:18:46.560 -06:00 [INF] query is hello
+2021-05-02 16:18:57.569 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:18:57.572 -06:00 [INF] Utterence responce is I'm Polaris, the Star. I work as a Personal Assistant just in my free hours!
+2021-05-02 16:18:57.573 -06:00 [INF] Time to get a responce from starlight is "00:00:11.0155622"
+2021-05-02 16:18:57.609 -06:00 [INF] waiting for a request
+2021-05-02 16:24:26.043 -06:00 [INF] waiting for a request
+2021-05-02 16:24:33.224 -06:00 [INF] query is hello
+2021-05-02 16:24:44.037 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:24:44.040 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:24:44.041 -06:00 [INF] Time to get a responce from starlight is "00:00:10.8194482"
+2021-05-02 16:24:44.079 -06:00 [INF] waiting for a request
+2021-05-02 16:35:47.064 -06:00 [INF] waiting for a request
+2021-05-02 16:35:49.912 -06:00 [INF] the number of times this query has been asked for is : 1
+2021-05-02 16:35:49.938 -06:00 [INF] query is hello
+2021-05-02 16:36:00.826 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:36:00.830 -06:00 [INF] Utterence responce is I'm Polaris, the Star. I work as a Personal Assistant just in my free hours!
+2021-05-02 16:36:00.831 -06:00 [INF] Time to get a responce from starlight is "00:00:10.8929053"
+2021-05-02 16:36:00.862 -06:00 [INF] waiting for a request
+2021-05-02 16:36:08.605 -06:00 [INF] the number of times this query has been asked for is : 2
+2021-05-02 16:36:08.607 -06:00 [INF] query is hello
+2021-05-02 16:36:08.631 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:36:08.634 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:36:08.634 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0275902"
+2021-05-02 16:36:08.636 -06:00 [INF] waiting for a request
+2021-05-02 16:36:12.165 -06:00 [INF] the number of times this query has been asked for is : 3
+2021-05-02 16:36:12.167 -06:00 [INF] query is hello
+2021-05-02 16:36:12.191 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:36:12.194 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:36:12.196 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0280315"
+2021-05-02 16:36:12.198 -06:00 [INF] waiting for a request
+2021-05-02 16:36:15.800 -06:00 [INF] the number of times this query has been asked for is : 4
+2021-05-02 16:36:15.801 -06:00 [INF] query is bye
+2021-05-02 16:36:15.828 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:36:15.830 -06:00 [INF] Utterence responce is Of course! Here's today's forecast:
+2021-05-02 16:36:15.833 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0315832"
+2021-05-02 16:36:15.835 -06:00 [INF] waiting for a request
+2021-05-02 16:41:49.146 -06:00 [INF] waiting for a request
+2021-05-02 16:41:56.321 -06:00 [INF] the number of times this query has been asked for is : 1
+2021-05-02 16:41:56.347 -06:00 [INF] query is hello
+2021-05-02 16:42:07.163 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:42:14.066 -06:00 [INF] Utterence responce is I'm Polaris, the Star. I work as a Personal Assistant just in my free hours!
+2021-05-02 16:42:14.068 -06:00 [INF] Time to get a responce from starlight is "00:00:17.7208363"
+2021-05-02 16:42:14.098 -06:00 [INF] waiting for a request
+2021-05-02 16:42:20.315 -06:00 [INF] the number of times this query has been asked for is : 2
+2021-05-02 16:42:20.318 -06:00 [INF] query is hello
+2021-05-02 16:42:20.343 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:42:20.345 -06:00 [INF] Utterence responce is My name is Polaris, I'm the brightest Personal Assistant ever!
+2021-05-02 16:42:20.350 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0316906"
+2021-05-02 16:42:20.353 -06:00 [INF] waiting for a request
+2021-05-02 16:42:23.702 -06:00 [INF] the number of times this query has been asked for is : 1
+2021-05-02 16:42:23.704 -06:00 [INF] query is bye
+2021-05-02 16:42:23.726 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:42:23.729 -06:00 [INF] Utterence responce is Sure thing, the weather for today is:
+2021-05-02 16:42:23.729 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0251752"
+2021-05-02 16:42:23.733 -06:00 [INF] waiting for a request
+2021-05-02 16:42:26.962 -06:00 [INF] the number of times this query has been asked for is : 1
+2021-05-02 16:42:26.964 -06:00 [INF] query is gun
+2021-05-02 16:42:26.987 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:42:26.990 -06:00 [INF] Utterence responce is Of course! Here's today's forecast:
+2021-05-02 16:42:26.991 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0271617"
+2021-05-02 16:42:26.993 -06:00 [INF] waiting for a request
+2021-05-02 16:42:30.166 -06:00 [INF] the number of times this query has been asked for is : 2
+2021-05-02 16:42:30.168 -06:00 [INF] query is bye
+2021-05-02 16:42:30.199 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:42:30.201 -06:00 [INF] Utterence responce is Got it, this is the forecast:
+2021-05-02 16:42:30.203 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0351721"
+2021-05-02 16:42:30.218 -06:00 [INF] waiting for a request
+2021-05-02 16:43:10.341 -06:00 [INF] waiting for a request
+2021-05-02 16:43:13.932 -06:00 [INF] the number of times this query hello has been asked for is : 1
+2021-05-02 16:43:13.956 -06:00 [INF] query is hello
+2021-05-02 16:43:24.790 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:43:24.793 -06:00 [INF] Utterence responce is I'm Polaris, the North Star, and also a Personal Assistant!
+2021-05-02 16:43:24.794 -06:00 [INF] Time to get a responce from starlight is "00:00:10.8378518"
+2021-05-02 16:43:24.825 -06:00 [INF] waiting for a request
+2021-05-02 16:43:24.830 -06:00 [INF] the number of times this query  has been asked for is : 1
+2021-05-02 16:43:24.832 -06:00 [INF] query is 
+2021-05-02 16:43:24.854 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:43:24.857 -06:00 [INF] Utterence responce is Of course! Here's today's forecast:
+2021-05-02 16:43:24.858 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0261367"
+2021-05-02 16:43:24.860 -06:00 [INF] waiting for a request
+2021-05-02 16:43:40.193 -06:00 [INF] the number of times this query hello has been asked for is : 2
+2021-05-02 16:43:40.197 -06:00 [INF] query is hello
+2021-05-02 16:43:40.222 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:43:40.225 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:43:40.226 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0299009"
+2021-05-02 16:43:40.229 -06:00 [INF] waiting for a request
+2021-05-02 16:43:51.394 -06:00 [INF] the number of times this query you are the best has been asked for is : 1
+2021-05-02 16:43:51.398 -06:00 [INF] query is you are the best
+2021-05-02 16:43:51.420 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:43:51.424 -06:00 [INF] Utterence responce is Sure, the day will be:
+2021-05-02 16:43:51.425 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0274782"
+2021-05-02 16:43:51.428 -06:00 [INF] waiting for a request
+2021-05-02 16:44:11.256 -06:00 [INF] waiting for a request
+2021-05-02 16:44:15.732 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 16:44:15.758 -06:00 [INF] query is hello
+2021-05-02 16:44:26.415 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:44:26.418 -06:00 [INF] Utterence responce is I'm Polaris, the star that marks the north celestial pole!
+2021-05-02 16:44:26.419 -06:00 [INF] Time to get a responce from starlight is "00:00:10.6609927"
+2021-05-02 16:44:26.450 -06:00 [INF] waiting for a request
+2021-05-02 16:44:26.453 -06:00 [INF] the number of times this query 'bye' has been asked for is : 1
+2021-05-02 16:44:26.454 -06:00 [INF] query is bye
+2021-05-02 16:44:26.495 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:44:26.498 -06:00 [INF] Utterence responce is Of course! Here's today's forecast:
+2021-05-02 16:44:26.499 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0446088"
+2021-05-02 16:44:26.502 -06:00 [INF] waiting for a request
+2021-05-02 16:44:26.506 -06:00 [INF] the number of times this query 'hello' has been asked for is : 2
+2021-05-02 16:44:26.509 -06:00 [INF] query is hello
+2021-05-02 16:44:26.528 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:44:26.530 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:44:26.531 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0219691"
+2021-05-02 16:44:26.535 -06:00 [INF] waiting for a request
+2021-05-02 16:44:26.539 -06:00 [INF] the number of times this query 'run' has been asked for is : 1
+2021-05-02 16:44:26.541 -06:00 [INF] query is run
+2021-05-02 16:44:26.562 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:44:26.564 -06:00 [INF] Utterence responce is Here it is:
+2021-05-02 16:44:26.566 -06:00 [INF] Time to get a responce from starlight is "00:00:00.0255409"
+2021-05-02 16:44:26.572 -06:00 [INF] waiting for a request
+2021-05-02 16:54:31.435 -06:00 [INF] waiting for a request
+2021-05-02 16:54:34.092 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 16:54:34.121 -06:00 [INF] query is hello
+2021-05-02 16:54:44.980 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:54:44.983 -06:00 [INF] Utterence responce is I'm Polaris, the star that marks the north celestial pole!
+2021-05-02 16:54:44.984 -06:00 [INF] Time to get a responce from starlight is "00:00:10.8635757"
+2021-05-02 16:54:45.017 -06:00 [INF] waiting for a request
+2021-05-02 16:55:02.723 -06:00 [INF] waiting for a request
+2021-05-02 16:55:19.456 -06:00 [INF] the number of times this query 'hello' has been asked for is : 1
+2021-05-02 16:55:19.479 -06:00 [INF] query is hello
+2021-05-02 16:55:30.909 -06:00 [INF] the utternece is a questions? : False
+2021-05-02 16:55:30.911 -06:00 [INF] Utterence responce is I'm Polaris, but you may also know me as the North Star or Pole Star!
+2021-05-02 16:55:30.911 -06:00 [INF] Time to get a responce from starlight is "00:00:11.4324960"
+2021-05-02 16:55:30.947 -06:00 [INF] waiting for a request
